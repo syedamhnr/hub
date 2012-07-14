@@ -1,3 +1,6 @@
-.settings
-.projects
+settings/
+.project
 .classpath
+target/
+*.out
+bin/
